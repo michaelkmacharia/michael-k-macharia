@@ -5,6 +5,6 @@
 - 📫 And you can reach me via: michaelkmacharia@gmail.com
 
 <!---
-michaelkmacharia/michaelkmacharia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+michaelkmacharia/michael-k-macharia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
